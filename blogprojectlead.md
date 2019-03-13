@@ -21,8 +21,8 @@ The blog project lead's role is to lead a team of blog writers in the coordinate
 - Publish the posts on the Bisq blog platforms.
 
 ## Priviledges
-- Access to the Blog writing schedule
-- Access to the Bisq Medium publication
+- Access to the Blog writing schedule.
+- Access to the Bisq Medium publication.
 
 ## Compensation
 TBD

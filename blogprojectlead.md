@@ -1,38 +1,35 @@
-# Blog project lead
+# Blog Project Lead
 
-The blog project lead's role is to lead a team of blog writers in the coordinated effort to produce 
-quality blog posts on a regular basis. 
+The blog project lead's role is to lead a team of blog writers in the coordinated effort to produce quality blog posts on a regular basis. The project lead is ultimately responsible for the successful blog post publication.
 
 ## Duties
 
-### Blog writing schedule
-- Set and manage the blog writing schedule
-- Ensure the continuous flow of posts on a regular basis (weekly, biweekly, etc)
+### Communication
+- Set and manage [the blog writing schedule](https://docs.google.com/spreadsheet/d/1En6LwJQlzpsY5rOSuiZa2ThoI8rrdlTNoJK1ZlsIi38/edit#gid=0).
+- Inform [the Bisq community](https://bisq.community/t/call-for-blog-writers/7040/8) and the writers on #blogposts slack channel of any news, updates, etc.
+- Maintain the [Bisq Blog Project doc](bisqblogproject.md).
+
 
 ### Writers
-- Attract blog writers
-- Produce and/or maintain the Blog Blog Writer role doc
-- Ensure that the writers stay informed of any major changes in the role or Bisq
-- Help the writers deliver their post by an agreed deadline
-- Send quick updates/reminders to the writers
-- Collaborate closely with the writers on new ideas for the project 
+- Attract new blog writers.
+- Ensure that the writers stay informed of any major changes in the project.
+- Coordinate the writing process to ensure the successful post delivery by an agreed deadline.
+- Collaborate closely with the writers on new ideas for the project.
 
-### Blog Posts
-- Do the initial review, suggest edits to the first draft
-- Do the final review
-- Publish the posts on the Bisq blog platform and other platforms
+### Publication
+- Oversee and perform a series of reviews and edits from the first draft to the final work.
+- Publish the posts on the Bisq blog platforms.
 - Make sure that the posts are publicized on other Bisq communication platforms
 
 ## Priviledges
-- Access to Bisq blog site
-- Access to Bisq Medium account and other platforms
+- Access to [the Bisq Medium publication](https://medium.com/bisq-network)
 
 ## Compensation
 TBD
 
 ## Blog Platforms
-- Bisq blog site: https://bisq.network/blog
-- Medium
+- [Bisq blog site] (https://bisq.network/blog)
+- [Bisq Medium publication](https://medium.com/bisq-network)
 
 ## Bisq Communication Platforms
 - Bisq landing page

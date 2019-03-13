@@ -8,7 +8,7 @@ Anyone interested in contributing a post is welcome to join us!
 - The writers are responsible for delivering quality blog posts by an agreed deadline.
 - The writers are also encouraged to contribute to the Bisq writer community by sharing their ideas on blog topics, publicizing, etc.
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.
-- The topics are not limited to Bisq only, but can include your thoughts on related subjects such as Bitcoin, privacy, cryptography, etc.
+- The topics are not limited to Bisq only, and can include your thoughts on related subjects such as Bitcoin, privacy, cryptography, etc.
 
 ### Communication
 Communication is done on slack, either directly with the project lead or on the #blogposts channel.

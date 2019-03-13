@@ -28,5 +28,5 @@ The blog project lead's role is to lead a team of blog writers in the coordinate
 TBD
 
 ## Blog Platforms
-- [Bisq blog site] (https://bisq.network/blog)
+- [Bisq blog site](https://bisq.network/blog)
 - [Bisq Medium publication](https://medium.com/bisq-network)

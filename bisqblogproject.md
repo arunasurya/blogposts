@@ -3,7 +3,7 @@
 The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by people in the Bisq community, including contributors and traders. 
 
 ## Writers
-Anyone interested in contributing a post is welcome to join us! 
+Anyone interested in contributing a post is welcome to join us! We want to have a diverse group of writers, from those with non-technical background to developers. We are also open to those writers who want to write a post in a language other than English.
 
 - The writers are responsible for delivering quality blog posts by an agreed deadline.
 - The writers are also encouraged to contribute to the Bisq writer community by sharing their ideas on blog topics, publicizing, etc.
@@ -33,5 +33,5 @@ If you are interested in contributing a post, we suggest that you do the followi
 
 If you want to contribute future posts, you can discuss that with the project lead. You are welcome to create a series of posts with related topics.
 
-The blog writing process may evolve with time as we have more experience. We welcome your input in improving the process!
+The blog writing process may evolve with time as we gain more experience. We welcome your input in improving the process!
 

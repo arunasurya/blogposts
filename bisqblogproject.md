@@ -29,7 +29,9 @@ If you are interested in contributing a post, we suggest that you do the followi
   - The post will go through several reviews and edits before it is published on the [Bisq blog](https://bisq.network/blog/).
   - The project lead will handle the editing and publishing process. All you need to focus on is writing.
 - Once your post is published on the Bisq blog site, it will also appear in the Bisq publication in Medium's [bisq-network publication](https://medium.com/bisq-network).
-  - If you are a regular Medium contributor, you can publish your post on your Medium site and submit it to the Bisq Medium publication.
+  - If you are a regular Medium contributor, you can publish your post on your Medium site and submit it to the Bisq Medium publication. This is done **after** the post has been published on the Bisq blog.
 
 If you want to contribute future posts, you can discuss that with the project lead. You are welcome to create a series of posts with related topics.
+
+The blog writing process may evolve with time as we have more experience. We welcome your input in improving the process!
 

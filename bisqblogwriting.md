@@ -23,7 +23,7 @@ If you are interested in contributing a post, we suggest that you do the followi
 - Contact the project lead with your choice of the publishing week and the blog topic.
   - If you are not sure what you want to write about, no worries, the project lead will help you figure this out.
 - You will work closely with the project lead during the writing process, which consists of several steps:
-  - Once you know what you want to write about, you will be asked to write the first draft and send it in a Google doc to the project lead
+  - Once you know what you want to write about, you will be asked to write the first draft and send it in a Google doc to the project lead.
   - The post will go through several reviews and edits before it is published on the [Bisq blog](https://bisq.network/blog/)
   - The project lead will handle the editing and publishing process. All you need to focus on is writing.
 - If you want to contribute future posts, inform the project lead with your choice of the publishing week.

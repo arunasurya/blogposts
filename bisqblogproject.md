@@ -16,7 +16,7 @@ The current project lead is @arunasurya.
 
 ### Compensation
 The blog writer can file a compensation request for the amount of BSQ that they think is reasonable for their work. 
-The compensation request is filed after the blog post has been published on the Bisq blog site.
+The compensation request is filed **after** the blog post has been published on the Bisq blog site.
 
 ## Blog writing process
 If you are interested in contributing a post, we suggest that you do the following:

@@ -1,6 +1,6 @@
 # Bisq Blog Project
 
-The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by people in the Bisq community, including contributors and traders. 
+The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by people in the Bisq community including contributors and traders. 
 
 ## Writers
 Anyone interested in contributing a post is welcome to join us! We want to have a diverse group of writers, from those with a non-technical background to developers and active traders. We are also open to those writers who want to write a post in a language other than English.
@@ -11,7 +11,7 @@ Anyone interested in contributing a post is welcome to join us! We want to have 
 - The topics are not limited to Bisq only, and can include your thoughts on related subjects such as Bitcoin, privacy, cryptography, etc.
 
 ### Communication
-Communication is done on slack, either directly with the project lead or on the #blogposts channel.
+Communication is done on slack, either directly with [the project lead](blogprojectlead.md) or on the #blogposts channel.
 The current project lead is @arunasurya.
 
 ### Compensation

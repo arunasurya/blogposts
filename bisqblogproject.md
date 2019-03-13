@@ -1,6 +1,6 @@
 # Bisq Blog Project
 
-The aim of the Bisq blog project is to produce quality blog posts on a regular basis. Our posts will express diverse opinions by people in the Bisq community, including contributors and traders. 
+The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by people in the Bisq community, including contributors and traders. 
 
 ## Writers
 Anyone interested in contributing a post is welcome to join us! 

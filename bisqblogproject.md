@@ -1,6 +1,6 @@
 # Bisq Blog Project
 
-The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by people in the Bisq community including contributors and traders. 
+The aim of the Bisq blog project is to publish quality blog posts on a regular basis. Our posts will express diverse opinions and thoughts by writers with different backgrounds in the Bisq community. 
 
 ## Writers
 Anyone interested in contributing a post is welcome to join us! We want to have a diverse group of writers, from those with a non-technical background to developers and active traders. We are also open to those writers who want to write a post in a language other than English.
@@ -26,7 +26,7 @@ If you are interested in contributing a post, we suggest that you do the followi
   - If you are not sure what you want to write about, no worries, the project lead will help you figure this out.
 - You will work closely with the project lead during the writing process, which consists of several steps:
   - Once you know what you want to write about, you will be asked to write the first draft and send it in a Google doc to the project lead.
-  - The post will go through several reviews and edits before it is published on the [Bisq blog](https://bisq.network/blog/).
+  - The post will go through several reviews and edits by several reviewers before it is published on the [Bisq blog](https://bisq.network/blog/).
   - The project lead will handle the editing and publishing process. All you need to focus on is writing.
 - Once your post is published on the Bisq blog site, it will also appear in Medium's [bisq-network publication](https://medium.com/bisq-network).
   - If you are a regular Medium contributor, you can publish your post on your Medium site and submit it to the Bisq Medium publication. This is done **after** the post has been published on the Bisq blog.

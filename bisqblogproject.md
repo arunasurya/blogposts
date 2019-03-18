@@ -20,7 +20,7 @@ The compensation request is filed **after** the blog post has been published on 
 
 ## Blog writing process
 If you are interested in contributing a post, we suggest that you do the following:
-- Join our #blogposts slack channel.
+- Join the #blogposts slack channel, share your ideas, etc.
 - Review [the blog writing schedule](https://docs.google.com/spreadsheets/d/1En6LwJQlzpsY5rOSuiZa2ThoI8rrdlTNoJK1ZlsIi38/edit#gid=0).
 - Contact the project lead with your choice of the publishing week and the blog topic.
   - If you are not sure what you want to write about, no worries, the project lead will help you figure this out.

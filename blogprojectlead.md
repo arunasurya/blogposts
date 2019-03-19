@@ -17,7 +17,7 @@ The blog project lead's role is to lead a team of blog writers in the coordinate
 
 ### Review and Publication
 - Oversee and perform a series of reviews and edits from the first draft to the final work.
-  - The review is typically performed by several reviewers. The current reviewers are @m52go and @manfredkarrer.
+  - The review and edits are typically done by several editors. The current main collaborator is @m52go.
 - Publish the posts on the Bisq blog platforms.
 
 ## Priviledges

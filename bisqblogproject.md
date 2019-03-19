@@ -15,11 +15,11 @@ If you are interested in contributing a post, please follow the steps below:
 - Once you know what you want to write about, you will be asked to write **a short abstract** and send it in a Google doc to the project lead. Please try to be as clear as possible and define the goal of the post.
 - If the abstract is approved, you will be asked to write the first draft and share it with the project lead.
 - The post will go through multiple reviews and edits by one or two editors before it is published on the [Bisq blog](https://bisq.network/blog/).
-- The blog editors will handle the editing and publishing process. All you need to focus on is writing.
+  - The blog editors will handle the editing and publishing process. All you need to focus on is writing.
 - Once your post is published on the Bisq blog site, it will also appear in Medium's [bisq-network publication](https://medium.com/bisq-network).
   - If you are a regular Medium contributor, you can publish your post on your Medium site and submit it to the Bisq Medium publication. This is done **after** the post has been published on the Bisq blog.
   
-## Bisq Blog Writers
+## Bisq blog writers
 - The writers are responsible for delivering quality blog posts by an agreed deadline.
 - The writers are also encouraged to contribute to the Bisq writer community by sharing their ideas on blog topics, publicizing, etc.
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.

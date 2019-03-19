@@ -6,11 +6,13 @@ Anyone interested in contributing a post is welcome to join us! We are also open
 
 Although we are open to all enquiries, we cannot guarantee that we will publish all the posts. Posts that contribute new perspectives and ideas are best, while those that the blog editors feel don't add value to the Bisq blog may not be accepted. In order to avoid miscommunication, we suggest that you follow the steps in the blog writing process below.
 
+The blog project is currently coordinated by two contributors, @arunasurya, who acts as [the project lead](blogprojectlead.md), and @m52go, who is involved in editing and publishing posts.
+
 ## Blog writing process
 If you are interested in contributing a post, please follow the steps below:
 - Join the #blogposts slack channel.
 - Review [the blog writing schedule](https://docs.google.com/spreadsheets/d/1En6LwJQlzpsY5rOSuiZa2ThoI8rrdlTNoJK1ZlsIi38/edit#gid=0).
-- Contact the project lead with your choice of the publishing week and the blog topic. The current lead is @arunasurya.
+- Contact the project lead with your choice of the publishing week and the blog topic.
   - If you are not sure what you want to write about, no worries, we will help you figure this out.
 - Once you know what you want to write about, you will be asked to write **a short abstract** and send it in a Google doc to the project lead. Please try to be as clear as possible and define the goal of the post.
 - If the abstract is approved, you will be asked to write the first draft and share it with the project lead.
@@ -25,7 +27,7 @@ If you are interested in contributing a post, please follow the steps below:
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.
 
 ### Communication
-Communication is done on slack, either directly with [the project lead](blogprojectlead.md) or on the #blogposts channel.
+Communication is done on slack, either directly with the project lead or on the #blogposts channel.
 
 ### Compensation
 The blog writer can file a compensation request for the amount of BSQ that they think is reasonable for their work. 

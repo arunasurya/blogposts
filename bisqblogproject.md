@@ -12,8 +12,7 @@ If you are interested in contributing a post, please follow the steps below:
 - Review [the blog writing schedule](https://docs.google.com/spreadsheets/d/1En6LwJQlzpsY5rOSuiZa2ThoI8rrdlTNoJK1ZlsIi38/edit#gid=0).
 - Contact the project lead with your choice of the publishing week and the blog topic. The current lead is @arunasurya.
   - If you are not sure what you want to write about, no worries, we will help you figure this out.
-- You will work closely with the project lead during the writing process, which consists of several steps:
-  - Once you know what you want to write about, you will be asked to write **a short abstract** and send it in a Google doc to the project lead. Please try to be as clear as possible and define the goal of the post.
+- Once you know what you want to write about, you will be asked to write **a short abstract** and send it in a Google doc to the project lead. Please try to be as clear as possible and define the goal of the post.
 - If the abstract is approved, you will be asked to write the first draft and share it with the project lead.
 - The post will go through multiple reviews and edits by one or two editors before it is published on the [Bisq blog](https://bisq.network/blog/).
 - The blog editors will handle the editing and publishing process. All you need to focus on is writing.

@@ -30,7 +30,7 @@ If you are interested in contributing a post, please follow the steps below:
   - This is done to ensure the continuous publication flow. The writer will be informed of these changes.
 - The writers are also encouraged to contribute to the Bisq writer community by sharing their ideas on blog topics, publicizing, etc on the #blogposts channel.
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.
-  - It is best to send several title ideas to the project lead before diving into the whole writing process.
+  - It is best to send several title ideas to the project lead before diving into the writing process.
 
 ### Communication
 Communication is done on slack, either directly with the project lead or on the #blogposts channel.

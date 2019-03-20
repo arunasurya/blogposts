@@ -32,14 +32,14 @@ If you are interested in contributing a post, please follow the steps below:
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.
   - It is best to send several title ideas to the project lead before diving into the writing process.
 
-### Communication
+## Communication
 Communication is done on slack, either directly with the project lead or on the #blogposts channel.
 
-### Compensation
+## Compensation
 The blog writer can file a compensation request for the amount of BSQ that they think is reasonable for their work. 
 The compensation request is filed **after** the blog post has been published on the Bisq blog site.
 
-### Cross-posting
+## Cross-posting
 If you would like to cross-post your work, please follow the instructions below:
 - Your post will be published first on the Bisq blog site.
 - Please wait a week before publishing the post on the site of your choice.

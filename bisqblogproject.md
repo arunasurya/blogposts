@@ -26,7 +26,7 @@ If you are interested in contributing a post, please follow the steps below:
   
 ## Bisq blog writers
 - The writers are responsible for delivering quality blog posts by an agreed deadline.
-  - In case of delays in publishing a post, the editors can change the publication week for a particular writer. 
+  - In case of delay in publishing a post, the editors can change the publication week for a particular writer. 
   - This is done to ensure the continuous publication flow. The writer will be informed of these changes.
 - The writers are also encouraged to contribute to the Bisq writer community by sharing their ideas on blog topics, publicizing, etc on the #blogposts channel.
 - As a writer, you have the freedom to choose your own topic, the length of your post and the date of publication.

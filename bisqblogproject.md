@@ -4,7 +4,7 @@ The aim of the Bisq blog project is to publish quality blog posts on [the Bisq b
 
 Anyone interested in contributing a post is welcome to join us! We are also open to those writers who want to write in a language other than English. The topics are not limited to Bisq only, and can include your thoughts on related subjects such as Bitcoin, privacy, cryptography, decentralization, etc.
 
-Although we are open to all enquiries, we cannot guarantee that we will publish all the posts. Posts that contribute new perspectives, technical knowledge and expertise are best, while those posts that are believed by the blog editors to not add value to the Bisq blog may not be accepted. Please take a look at the information below to get acquainted with the project and join us.
+Although we are open to all enquiries, we cannot guarantee that we will publish all the posts. Posts that contribute new perspectives, technical knowledge and expertise are best, while those posts that are believed by the blog editors to not add value to the Bisq blog may not be accepted. Please take a look at the information below to get acquainted with the project and to join us.
 
 ## Blog editors/publishers
 The blog project is currently coordinated by two contributors, Aruna Surya (@arunasurya), who acts as [the project lead](blogprojectlead.md), and Steve Jain (@m52go), who is involved in editing and publishing the posts.

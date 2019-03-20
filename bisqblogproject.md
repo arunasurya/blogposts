@@ -1,6 +1,6 @@
 # Bisq Blog Project
 
-The aim of the Bisq blog project is to publish quality blog posts on [the Bisq blog](https://bisq.network/blog/) on a regular basis (currently once a week). Our posts will express diverse opinions and thoughts by writers with different backgrounds, from Bisq contributors and traders to writers with a non-technical background outside the Bisq community. 
+The aim of the Bisq blog project is to publish quality blog posts on [the Bisq blog](https://bisq.network/blog/) on a regular basis (currently once a week). Our posts will express diverse opinions and thoughts by writers with different backgrounds, from Bisq contributors and traders to writers with non-technical backgrounds outside the Bisq community. 
 
 Anyone interested in contributing a post is welcome to join us! We are also open to those writers who want to write in a language other than English. The topics are not limited to Bisq only, and can include your thoughts on related subjects such as Bitcoin, privacy, cryptography, decentralization, etc.
 

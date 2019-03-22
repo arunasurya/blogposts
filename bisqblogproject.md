@@ -6,8 +6,8 @@ Anyone interested in contributing a post is welcome to join us! We are also open
 
 Although we are open to all enquiries, we cannot guarantee that we will publish all the posts. Posts that contribute new perspectives, technical knowledge and expertise are best, while those posts that are believed by the blog editors to not add value to the Bisq blog may not be accepted. Please take a look at the information below to get acquainted with the project and to join us.
 
-## Blog editors/publishers
-The blog project is currently coordinated by two contributors, Aruna Surya (@arunasurya), who acts as [the project lead](blogprojectlead.md), and Steve Jain (@m52go), who is involved in editing and publishing the posts.
+## Blog editors
+The blog project is currently coordinated by two contributors, Aruna Surya (@arunasurya), who acts as [the project lead](blogprojectlead.md), and Steve Jain (@m52go), who is involved in editing and publishing the posts as well as improving the blog writing process.
 
 ## Blog writing process
 If you are interested in contributing a post, please follow the steps below:
